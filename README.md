@@ -1,5 +1,5 @@
-# CASA0010
-Here are the code and data for CASA0010
+# CASA0010 Patent Applicants
+Here are the code and data for CASA0010 Patent Applicants analysis
 
 Notes: 
 1. If you want to reproduce the analysis, you should download the data and remember to change the directory when reading in the data.
