@@ -7,4 +7,4 @@ Notes:
               You can download them from https://patentsview.org/download/data-download-tables
 3. For code - .ipynb file: data pre-precessing; 
               .Rmd file: distribution pattern analysis, spatial regression analysis;
-              stata do file: panel regression analysis.
+              .do file (stata do file): panel regression analysis.
